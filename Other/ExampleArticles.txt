@@ -1,0 +1,18 @@
+http://positiveguru.blogspot.com/2016/03/spring-mvc-intellij-idea.html
+
+https://medium.com/@yuntianhe/create-a-web-project-with-maven-spring-mvc-b859503f74d7
+
+http://javastudy.ru/spring-mvc/hello-world-example/
+
+
+----execute query----
+
+https://www.objectdb.com/java/jpa/query/execute
+
+
+
+
+
+
+---spring.hibernate---
+https://docs.jboss.org/spring.hibernate/orm/5.2/userguide/html_single/Hibernate_User_Guide.html
